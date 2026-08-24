@@ -1,4 +1,4 @@
-# GI113-2026-<your-student-id>
+# GI113-2026-1690700784
 
 Repository ส่วนตัวของวิชา **GI113 Computer Programming (GI)** ภาคเรียนที่ 1/2569 — ใช้ repo นี้ตลอดทั้งเทอมสำหรับส่งงาน Lab ทุกสัปดาห์
 
