@@ -2,6 +2,6 @@
  * Student ID : 1690700784
  * Name       : ธนกฤต อินทุย
  * Section    : 129 A
- * No.        :
+ * No.        : 31
  * Course     : GI113 Computer Programming (GI)
  */
